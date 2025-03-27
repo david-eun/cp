@@ -1,3 +1,6 @@
+/* Backtracking seems to be a sort of brute force algorithm.
+ * A change of the order of operations may result in shorter times. */
+
 #include <stdbool.h>
 #include <stdio.h>
 
